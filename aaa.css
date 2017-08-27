@@ -1,0 +1,25 @@
+.sehife{
+	width:700px; height:400px; margin:30px auto;
+}
+.main{
+	width:687px; height:40px; background:lightgrey;float:life;padding:10px 0 0 3px;
+}
+.company{
+	width:680px;height:200px;background:grey; float;left; padding:10px  0 0 10px;
+	margin:10px 0 10px 0;
+}
+.sevs{
+   width:220px; height:200px;background:lightgrey; float:left; padding:7px 0 0 7px;
+   
+}
+.spek{
+	width:220px; height:200px; background:lightgrey; float:left; padding:7px 0 0 7px;
+	margin:0 5px;
+}
+.work{
+	width:220px; height:200px; background:lightgrey; float:left; padding:7px 0 0 7px;
+	
+}
+.foot{
+width:690px; height:90px;background:lightgrey;float:left; padding:7px 0 0 0;margin:10px 0 0 0;	
+}
